@@ -1,3 +1,3 @@
 Scuffed Calculator
 
-[Live Demo](https://nishchaaal.github.io/ScuffedCalculator/);
+[Live Demo](https://nishchaaal.github.io/ScuffedCalculator/)
