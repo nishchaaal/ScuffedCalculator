@@ -32,7 +32,11 @@ const whichOperation = () => {
   }
 };
 
-equalsTo.addEventListener("click", whichOperation);
+equalsTo.addEventListener("click", () => {
+  whichOperation();
+  firstOperand = "";
+  secondOperand = "";
+});
 
 allClear.addEventListener("click", () => {
   input.innerHTML = "";
